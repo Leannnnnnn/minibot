@@ -1,6 +1,7 @@
 # minibot
 
-详细内容请查看立创开源链接：[https://oshwhub.com/leannn/minibot](https://oshwhub.com/leannn/minibot)
+> 最新内容在master分支
+> 详细说明请查看立创开源链接：[https://oshwhub.com/leannn/minibot](https://oshwhub.com/leannn/minibot)
 
 ## 1.项目介绍
 ### 1.0 前言
