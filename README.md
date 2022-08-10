@@ -1,6 +1,6 @@
 # minibot
 
-> 最新内容在master分支
+> 最新内容在master分支\
 > 详细说明请查看立创开源链接：[https://oshwhub.com/leannn/minibot](https://oshwhub.com/leannn/minibot)
 
 ## 1.项目介绍
